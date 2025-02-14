@@ -16,7 +16,7 @@ Xclipse is a competitive **Pet Simulator 99** clan that brings together elite pl
 - **Discord:** [Join Here](https://discord.gg/xrx97aHzp8)
 - **TikTok:** [@xclipsenet](https://www.tiktok.com/@xclipsenet)
 - **YouTube:** [Xclipse Channel](https://www.youtube.com/channel/yourchannel)
-- **Twitch:** [Xclipse Twitch](https://www.twitch.tv/ttvleeeroy)
+- **Twitch:** [Xclipse Twitch](https://www.twitch.tv/xclipsenet)
 
 ## 📜 Installation & Usage
 1. Clone the repository:
