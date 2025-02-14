@@ -1,6 +1,6 @@
 # Xclipse
 
-![Xclipse Logo]([path/to/logo.png](https://cdn.discordapp.com/attachments/1238725269704146995/1339902512169222154/cb3d015e0b673180bb096b221c52a501.webp?ex=67b068f5&is=67af1775&hm=453fdfb808194238c8d13c19f9ea925ad7a367ec18e631dd5134a930ff64760f&))
+![Xclipse Logo]([https://cdn.discordapp.com/attachments/1238725269704146995/1339902512169222154/cb3d015e0b673180bb096b221c52a501.webp?ex=67b068f5&is=67af1775&hm=453fdfb808194238c8d13c19f9ea925ad7a367ec18e631dd5134a930ff64760f&]
 
 ## 🌟 About Xclipse
 Xclipse is a competitive **Pet Simulator 99** clan that brings together elite players, casual grinders, and community-driven gamers. We focus on teamwork, strategy, and fun while dominating leaderboards and events.
